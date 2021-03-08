@@ -9,7 +9,7 @@
 
 3月度定例会に出席できるか、業務都合で送れるか、業務都合で出席できないかをアンケートで教えてください。  
 
-📅 **<span style="color: red;">>3/10(水) 23:59 締め切り</span>**  
+📅 <span style="color: red;">3/10(水) 23:59 締め切り</span>  
 
 3月度定例会 参加可否アンケートフォーム：  
 https://forms.gle/ziv5GVjqAKpkJT2z7  
