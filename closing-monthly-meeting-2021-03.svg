@@ -4,7 +4,7 @@
      xmlns:xlink="http://www.w3.org/1999/xlink"
      width="240" height="0"
 >
-  <text font-size="18" font-weight="bold" x="10" y="10">
+  <text font-size="18" font-weight="bold">
     <tspan fill="red">3/10(水) 23:59 締め切り</tspan>
   </text>
 </svg>
