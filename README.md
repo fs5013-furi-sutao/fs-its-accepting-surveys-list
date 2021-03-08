@@ -2,7 +2,7 @@
 
 # 受付中のアンケート一覧
 
-## ⬛ 3月度定例会 参加可否 ![](./closing-monthly-meeting-2021-03.svg)
+## ⬛ 3月度定例会 参加可否  ![](./closing-monthly-meeting-2021-03.svg)
 
 3月度の定例会は、3/12(金) 19:30 ～ リモート（Microsoft Teams）で行います。  
 21:00 ～ は REMO で二次会も行います。
