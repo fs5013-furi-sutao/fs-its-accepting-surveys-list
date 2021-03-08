@@ -13,3 +13,5 @@
 
 3月度定例会 参加可否アンケートフォーム：  
 https://forms.gle/ziv5GVjqAKpkJT2z7  
+
+![](./colortext.svg)
