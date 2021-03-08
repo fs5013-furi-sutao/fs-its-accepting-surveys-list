@@ -10,4 +10,4 @@
 3月度定例会に出席できるか、業務都合で遅れるか、業務都合で出席できないかをアンケートで教えてください。  
 
 3月度定例会 参加可否アンケートフォーム：  
-⏩ **https://forms.gle/ziv5GVjqAKpkJT2z7**  
+⏩ **https://forms.gle/jKe7sfjpYpnACZkGA**  
