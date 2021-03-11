@@ -12,7 +12,7 @@
 3月度定例会 参加可否アンケートフォーム：  
 ⏩ **https://forms.gle/jKe7sfjpYpnACZkGA**  
 
-## ⬛ 3月度定例会 感想フォーム 
+## ⬛ 3月度定例会 感想フォーム  ![3/17(水) 23:59 締め切り](./closing-monthly-meeting-2021-03-impressions.svg)
 
 定例会の感想を記載ください。締め切りは 3/17(水) 23:59 までです。
 
