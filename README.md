@@ -45,7 +45,7 @@
 たくさんのご参加、お待ちしてます！
 
 P.S.
-希望者が集まれば AmongUs (dancing)もやります
+希望者が集まれば AmongUs 💃🏼 もやります
 
 3月レク参加可否回答フォーム ：  
 ⏩ **https://forms.gle/uq5h3VMCsKHm3Xfr8**  
