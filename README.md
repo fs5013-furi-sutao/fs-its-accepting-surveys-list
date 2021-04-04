@@ -6,11 +6,11 @@
 
 Java 補強カリキュラムの説明動画の視聴が完了しましたら、以下のアンケートより完了報告をお願いします。
 
-■リニューアルサイト 
+■リニューアルサイト   
 Java Bootcamp:
 https://fs5013-furi-sutao.github.io/java-bootcamp/
 
-■説明動画
+■説明動画    
 https://youtu.be/CkWeF0FniP4
 
 Java 補強カリキュラムの説明動画視聴アンケートフォーム：  
