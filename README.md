@@ -2,8 +2,22 @@
 
 # 受付中のアンケート一覧
 
-## ⬛ 4月度定例会 参加可否アンケート  ![3/10(水) 23:59 締め切り](./closing-monthly-meeting-2021-03.svg)
-\
+## ⬛ Java 補強カリキュラムの説明動画視聴アンケート  ![4/6(火) 23:59 締め切り](./closing-monthly-meeting-2021-03.svg)
+
+Java 補強カリキュラムの説明動画の視聴が完了しましたら、以下のアンケートより完了報告をお願いします。
+
+■リニューアルサイト 
+Java Bootcamp:
+https://fs5013-furi-sutao.github.io/java-bootcamp/
+
+■説明動画
+https://youtu.be/CkWeF0FniP4
+
+Java 補強カリキュラムの説明動画視聴アンケートフォーム：  
+⏩ **https://forms.gle/TXahVjL3yEYih5mt8**  
+
+## ⬛ 4月度定例会 参加可否アンケート  ![4/6(火) 23:59 締め切り](./closing-monthly-meeting-2021-03.svg)
+
 4月度の定例会は、4/9(金) 19:30 ～ リモート（Microsoft Teams）で行います。  
 21:00 ～ は二次会です。
 
