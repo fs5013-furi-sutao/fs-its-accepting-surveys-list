@@ -7,7 +7,7 @@
 Java 補強カリキュラムの説明動画の視聴が完了しましたら、以下のアンケートフォームより完了報告をお願いします。
 
 ■リニューアルサイト   
-Java Bootcamp:
+Java Bootcamp:    
 https://fs5013-furi-sutao.github.io/java-bootcamp/
 
 ■説明動画    
