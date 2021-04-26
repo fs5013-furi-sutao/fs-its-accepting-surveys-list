@@ -23,7 +23,7 @@ https://youtu.be/CkWeF0FniP4
 5月度定例会に出席できるか、業務都合で遅れるか、業務都合で出席できないかをアンケートで教えてください。  
 
 5月度定例会 参加可否アンケートフォーム：  
-⏩ **https://forms.gle/gFNN4HdVqzg7NXcH6**
+⏩ **https://forms.gle/28ZMa1PizurLo13EA**
 
 <!-- ## ⬛ 4月度定例会 感想フォーム  ![4/14(水) 23:59 締め切り](./closing-monthly-meeting-2021-03-impressions.svg)
 
