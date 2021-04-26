@@ -16,7 +16,7 @@ https://youtu.be/CkWeF0FniP4
 説明動画の視聴完了報告アンケートフォーム：  
 ⏩ **https://forms.gle/TXahVjL3yEYih5mt8**   -->  
 
-## ⬛ 5月度定例会 参加可否アンケート  ![4/6(火) 23:59 締め切り](./closing-monthly-meeting-2021-03.svg)
+## ⬛ 5月度定例会 参加可否アンケート  ![4/28(水) 23:59 締め切り](./closing-monthly-meeting-2021-05.svg)
 
 5月度の定例会は、5/14(金) 19:30 ～ リモート（Microsoft Teams）で行います。  
 
