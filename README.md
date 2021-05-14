@@ -32,7 +32,7 @@ https://youtu.be/CkWeF0FniP4
 期日内に感想フォームへの記載、送信が完了した場合に、定例会への「出席」とみなします。
 
 2021年度5月度 本社定例会（録画）:    
-**https://youtu.be/lkKHPpYkvJ4**    
+現在編集中 ~~**https://youtu.be/XXXXX**~~    
 
 ### 5月度定例会 感想フォーム：  
 ⏩ **https://forms.gle/LLbZqJmq8sM6Zv9B9**  
