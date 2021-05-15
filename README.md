@@ -46,7 +46,7 @@ https://youtu.be/CkWeF0FniP4
 
 ## B 🔵 業務都合で参加できなかった方向けのフォームはこちら
 3月度定例会感想フォーム ：  
-⏩ **https://forms.gle/vBR6zQ2LCNY7rGSk9**
+⏩ **https://forms.gle/vBR6zQ2LCNY7rGSk9** -->
 
 ## ⬛ 3月レク参加可否回答フォーム  ![3/17(水) 23:59 締め切り](./closing-monthly-meeting-2021-03-impressions.svg)
 
@@ -67,7 +67,7 @@ P.S.
 希望者が集まれば AmongUs 💃🏼 もやります
 
 3月レク参加可否回答フォーム ：  
-⏩ **https://forms.gle/uq5h3VMCsKHm3Xfr8** -->  
+⏩ **https://forms.gle/uq5h3VMCsKHm3Xfr8**   
 
 ## ⬛ 現場業務の悩み・困りごと窓口  ![3/10(水) 23:59 締め切り](./always-accepting.svg)
 
