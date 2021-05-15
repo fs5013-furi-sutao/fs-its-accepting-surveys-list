@@ -37,6 +37,8 @@ https://youtu.be/CkWeF0FniP4
 ### 5月度定例会 感想フォーム：  
 ⏩ **https://forms.gle/LLbZqJmq8sM6Zv9B9**  
 
+<br />
+
 <!-- 当日定例会に参加できた方は、＜A＞のフォームのみを記載して送信してください
 - 業務都合で参加できなかった方は、3/15(月) に展開される定例会の録画を見た上で、＜B＞のフォームのみを記載して送信してください
 
@@ -68,6 +70,8 @@ https://youtu.be/CkWeF0FniP4
 
 5月レク参加可否回答フォーム ：  
 ⏩ **https://forms.gle/YDjkULamRRpmeEin8**   
+
+<br />
 
 ## ⬛ 現場業務の悩み・困りごと窓口  ![3/10(水) 23:59 締め切り](./always-accepting.svg)
 
