@@ -72,7 +72,7 @@ https://youtu.be/CkWeF0FniP4
 3月度定例会感想フォーム ：  
 ⏩ **https://forms.gle/vBR6zQ2LCNY7rGSk9** -->
 
-## ⬛ 5月レク参加可否回答フォーム  ![5/19(水) 23:59 締め切り](./closing-monthly-meeting-2021-05-impressions.svg)
+<!-- ## ⬛ 5月レク参加可否回答フォーム  ![5/19(水) 23:59 締め切り](./closing-monthly-meeting-2021-05-impressions.svg)
 
 ### レクの内容詳細
 #### タイトル
@@ -93,7 +93,7 @@ https://youtu.be/CkWeF0FniP4
 5月レク参加可否回答フォーム ：  
 ⏩ **https://forms.gle/YDjkULamRRpmeEin8**   
 
-<br />
+<br /> -->
 
 ## ⬛ 現場業務の悩み・困りごと窓口  ![3/10(水) 23:59 締め切り](./always-accepting.svg)
 
