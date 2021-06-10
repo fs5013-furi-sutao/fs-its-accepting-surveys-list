@@ -16,7 +16,7 @@ https://youtu.be/CkWeF0FniP4
 説明動画の視聴完了報告アンケートフォーム：  
 ⏩ **https://forms.gle/TXahVjL3yEYih5mt8**   -->  
 
-## ⬛ 6月度定例会 参加可否アンケート  ![6/2(水) 23:59 締め切り](./closing-monthly-meeting-2021-06.svg)
+<!-- ## ⬛ 6月度定例会 参加可否アンケート  ![6/2(水) 23:59 締め切り](./closing-monthly-meeting-2021-06.svg)
 
 6月度の定例会は、5/14(金) 19:30 ～ リモート（Microsoft Teams）で行います。  
 
@@ -47,9 +47,9 @@ https://youtu.be/CkWeF0FniP4
 レクリエーションでやりたい企画・ゲーム大募集：  
 ⏩ **https://forms.gle/idcS6DHq8T3ZFtjG9**
 
-<br />
+<br /> -->
 
-<!-- ## ⬛ 5月度定例会 感想フォーム  ![5/19(水) 23:59 締め切り](./closing-monthly-meeting-2021-05-impressions.svg)
+## ⬛ 5月度定例会 感想フォーム  ![5/19(水) 23:59 締め切り](./closing-monthly-meeting-2021-05-impressions.svg)
 
 定例会の感想を記載ください。締め切りは 5/19(水) 23:59 までです。
 
@@ -58,21 +58,21 @@ https://youtu.be/CkWeF0FniP4
 2021年度5月度 本社定例会（録画）:    
 現在編集中 ~~**https://youtu.be/XXXXX**~~    
 
-### 5月度定例会 感想フォーム：  
+<!-- ### 5月度定例会 感想フォーム：  
 ⏩ **https://forms.gle/LLbZqJmq8sM6Zv9B9**  
 
-<br /> -->
+<br /> --> 
 
-<!-- 当日定例会に参加できた方は、＜A＞のフォームのみを記載して送信してください
-- 業務都合で参加できなかった方は、3/15(月) に展開される定例会の録画を見た上で、＜B＞のフォームのみを記載して送信してください
+当日定例会に参加できた方は、＜A＞のフォームのみを記載して送信してください  
+業務都合で参加できなかった方は、6/14(月) に展開される定例会の録画を見た上で、＜B＞のフォームのみを記載して送信してください
 
 ## A 🔵 当日参加者できた方向けのフォームはこちら
-3月度定例会感想フォーム ：  
-⏩ **https://forms.gle/RugVXiBPmEzdq8qe7** 
+6月度定例会 感想フォーム（当日参加者向け）：  
+⏩ **https://forms.gle/Dje38Gxk3wF6zLtJ9** 
 
 ## B 🔵 業務都合で参加できなかった方向けのフォームはこちら
-3月度定例会感想フォーム ：  
-⏩ **https://forms.gle/vBR6zQ2LCNY7rGSk9** -->
+6月度定例会 感想フォーム（業務都合不参加者向け） ：  
+⏩ **https://forms.gle/MtHirMJKX96g75ap9** -->
 
 <!-- ## ⬛ 5月レク参加可否回答フォーム  ![5/19(水) 23:59 締め切り](./closing-monthly-meeting-2021-05-impressions.svg)
 
